@@ -11,4 +11,4 @@ In this repository, I will be sharing my solutions to various LeetCode coding pr
 🌐 Language Diversity: The coding world is vast, and we'll explore it in different languages. Find solutions implemented in Python, Java, C++, and more, catering to our diverse coding tastes!
 
 ## Disclaimer:
-🤫 A Gentle Reminder: LeetCode is all about the thrill of problem-solving and discovering new solutions. I encourage you to embark on the coding adventures independently first. The real magic lies in those "Eureka!" moments when you crack a challenge on your own! 🎯
+A Gentle Reminder: LeetCode is all about the thrill of problem-solving and discovering new solutions. I encourage you to embark on the coding adventures independently first. The real magic lies in those "Eureka!" moments when you crack a challenge on your own! 🎯
